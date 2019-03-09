@@ -45,6 +45,7 @@ that matter, will still have CONTRIBUTING.md, LICENSE.md, and README.md files.)
 
 ### Code Along
 
+
 Open up `index.js` in your text editor. If you're using the Learn IDE, click the
 blue "Open" button in the top right hand corner of the lesson. If you open up
 that `js-basics-variables-lab/` directory, you'll see a list of files (along
